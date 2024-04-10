@@ -4,7 +4,7 @@
 #include <iostream>
 
 class BinaryTreeNode {
-    private:
+    public:
         int element;
         BinaryTreeNode *left;
         BinaryTreeNode *right;
